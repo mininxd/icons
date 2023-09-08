@@ -37,66 +37,6 @@
     <h1>mininxd icons</h1>
     <h3 class="slogan">Lightweight icons, and made by love</h3>
   </center>
-
-  <div id="docs"></div>
-
-  <div id="konten-isi" class="konten">
-    <i>
-      <h3 id="maaf" onclick="show()" class="maaf">
-        // Maaf jika kategori salah, dan macet ketika digeser, untuk lihat semua
-        ikon pencet tulisan ini<br /></h3
-    ></i>
-    <h3 style="display: none" id="maaf1" onclick="back()" class="maaf">
-      // pencet tulisan ini untuk balik mode kategori<br />
-    </h3>
-    <hr />
-    <h4>
-      Pencet ikon untuk copy nama ikon, dan geser untuk melihat ikon yang lain
-    </h4>
-
-    <div id="swipe" class="swiper">
-      <!-- Additional required wrapper -->
-      <div class="swiper-wrapper">
-        <div class="swiper-slide">
-          <div id="sosmed"></div>
-        </div>
-
-        <div class="swiper-slide">
-          <div id="kode"></div>
-        </div>
-
-        <div class="swiper-slide">
-          <div id="utilitas"></div>
-        </div>
-
-        <div class="swiper-slide">
-          <div id="merk"></div>
-        </div>
-
-        <div class="swiper-slide">
-          <div id="aplikasi"></div>
-        </div>
-
-        <div class="swiper-slide">
-          <div id="sistemoperasi"></div>
-        </div>
-
-        <div class="swiper-slide">
-          <div id="lainnya"></div>
-        </div>
-
-        <!--END slide-->
-      </div>
-    </div>
-
-    <div style="display: none" id="allcontent"></div>
-
-    <hr />
-    <md-block>
-      [![Donate -
-      Saweria](https://img.shields.io/badge/Donate-Saweria-2ea44f?style=for-the-badge)](https://saweria.co/mininxd)
-    </md-block>
-  </div>
   <div class="pos-end">
     <button onclick="showdocs()" id="showdocs-btn" class="btn-docs">
       <i>//Dokumentasi</i>
@@ -108,9 +48,27 @@
       id="hidedocs-btn"
       class="btn-docs"
     >
-      Tutup Docs
+      // Tutup Docs
     </button>
   </div>
+ <h5><span id="total-icon"></span></h5>
+  <div id="docs"></div>
+
+  <div id="konten-isi" class="konten">
+    <i>
+
+    <hr />
+    <h3 class='maaf'>// Pencet ikon untuk copy nama ikon</h3>
+
+    <div id="allcontent"></div>
+
+    <hr />
+    <md-block>
+      [![Donate -
+      Saweria](https://img.shields.io/badge/Donate-Saweria-2ea44f?style=for-the-badge)](https://saweria.co/mininxd)
+    </md-block>
+  </div>
+
 </body>
 
 <script>
@@ -139,12 +97,9 @@
   });
 </script>
 
-<script async src="./content/socmed.js"></script>
-<script async src="./content/code.js"></script>
-<script async src="./content/utility.js"></script>
-<script async src="./content/apps.js"></script>
-<script async src="./content/brands.js"></script>
-<script async src="./content/os.js"></script>
-<script async src="./content/other.js"></script>
-<script async src="./content/top.js"></script>
-<script async src="showall.js"></script>
+<span class="pos-end">&copy;Mininxd 2023</span>
+
+
+
+<script async src="./content/docs.js"></script>
+<script async src="content.js"></script>

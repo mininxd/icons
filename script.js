@@ -12,8 +12,6 @@ function copy(el) {
 
 document.getElementById("howto").style.display = "none";
 
-
-
 var input = document.getElementById("inputcoba");
 var out = document.getElementById("output");
 
@@ -35,3 +33,32 @@ function cobaGuided() {
     "'></div>";
 }
 */
+
+function myFunction() {
+  // Declare variables
+  var input, filter, ul, li, a, i, txtValue;
+  input = document.getElementById("input");
+  filter = input.value.toUpperCase();
+  ul = document.getElementById("ic");
+  li = ul.getElementsByTagName("li");
+
+  // Loop through all list items, and hide those who don't match the search query
+
+  for (i = 0; i < li.length; i++) {
+    a = li[i].getElementsByTagName("a")[0];
+    txtValue = a.textContent || a.innerText;
+    if (txtValue.toUpperCase().indexOf(filter) > -1) {
+      li[i].style.display = "";
+    } else {
+      li[i].style.display = "none";
+    }
+    console.log(a.count);
+  }
+}
+
+var list = document.getElementById("ic");
+var jumlah = list.getElementsByTagName("li");
+
+document.getElementById("total-icon").innerHTML =
+  "<i>Total Icons: " + jumlah.length + "</i>";
+

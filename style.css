@@ -17,7 +17,8 @@
   color: #000;
   background: #fff;
   border-radius: 10px;
-  font-size: 20px;
+  font-size: 18px;
+  font-style: italic;
 }
 code {
   background: #fff;
@@ -52,4 +53,20 @@ input {
   padding: 4px;
   width: 99%;
   font-family: "Roboto Mono", Monospace;
+}
+input:focus {
+  outline: 1px solid #000;
+}
+ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+#total-icon {
+	height: fit-content;
+	line-height: 1px;
+  width: 95%;
+  display: flex;
+  justify-content: flex-end;
+  font-family: "Roboto condensed", Sans-Serif;
 }
