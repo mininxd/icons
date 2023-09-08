@@ -5,7 +5,7 @@ var content = `
     Taruh kode ini dalam <code>&lt;head&gt;</code><br><br>
     <code onclick="copy(this)" class="code"
       >&lt;link rel="stylesheet"
-      href="https://mininxd.my.id/cdn/icons/main.css"&gt;
+      href="https://icons.mininxd.my.id/main.css"&gt;
     </code>
     <hr />
     <h3>Contoh Kode</h3>
@@ -82,6 +82,8 @@ Berikut CSS kustom yang bisa kamu pakai :
 <div class="js-icon kustom"></div>
 
 <hr>
+
+<!--
 <h3>Uji Coba :</h3>
 <input placeholder="<div class='js-icon ic-xl ic-warning'></div>" id="inputcoba">
 <div class="pos-end">
@@ -90,7 +92,7 @@ Berikut CSS kustom yang bisa kamu pakai :
 <span id="output"></span>
 <br>
 
-<!-- <h4>Dengan Guide :</h4>
+<h4>Dengan Guide :</h4>
 <p>Masukan nama ikon :</p>
 <input placeholder="contoh: js-icon" id="inputcoba-nama"><br>
 <p>Masukan ukuran :</p>
