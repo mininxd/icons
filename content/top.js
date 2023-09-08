@@ -83,7 +83,7 @@ Berikut CSS kustom yang bisa kamu pakai :
 
 <hr>
 <h3>Uji Coba :</h3>
-<input placeholder="<div class='fa-js ic-xl ic-warning'></div>" id="inputcoba">
+<input placeholder="<div class='js-icon ic-xl ic-warning'></div>" id="inputcoba">
 <div class="pos-end">
 <button onclick="coba()" class="btn-coba">Test</button></div>
 <br>
