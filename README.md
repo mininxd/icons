@@ -7,7 +7,7 @@
 ### Cara submit icons buatanmu sendiri
 __Step 1 :__
 
-Upload logo kamu [disini](https://github.com/MininxD/icons/tree/main/icons/community_icons)
+Upload icon kamu [disini](https://github.com/MininxD/icons/tree/main/icons/community_icons)
 
 __Step 2 :__
 
@@ -28,14 +28,14 @@ Tambahkan tag HTML pada kode javascript [disini](https://github.com/MininxD/icon
 ```html
 <li 
    onclick="copy(this)"
-   class="yourlogo-icon ic-l ic-dark">
-<a>yourlogo-icon</a>
+   class="youricon-icon ic-l ic-dark">
+<a>youricon-icon</a>
 </li>
 ```
 
 ---
 
-Setelah selesai kamu bisa pull request, setelah daya ACC kamu langsung bisa pakai icons kamu dengan
+Setelah selesai kamu bisa pull request, setelah saya ACC kamu langsung bisa pakai icons kamu
 
 ```html
 <div class="youricon-icon
@@ -52,3 +52,7 @@ contoh :
 </div>
 ```
 informasi selengkapnya seperti ukuran dan atribut warna bisa cek [Disini](https:/icons.mininxd.my.id)
+
+---
+      [![Donate -
+      Saweria](https://img.shields.io/badge/Donate-Saweria-2ea44f?style=for-the-badge)](https://saweria.co/mininxd)
