@@ -4,7 +4,7 @@ var content = `
     <h3>Import kode</h3>
     Taruh kode ini dalam <code>&lt;head&gt;</code><br><br>
     <code onclick="copy(this)" class="code"
-      >&lt;script src="https://icons.mininxd.my.id/src/icons.js"&gt;&lt;/script&gt;
+      >&lt;script async src="https://icons.mininxd.my.id/src/icons.js"&gt;&lt;/script&gt;
     </code>
     <br><br>
     web framework ini membutuhkan jQuery, kalau kamu sudah ada abaikan, jika belum copy kode berikut
