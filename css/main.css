@@ -1,1 +1,411 @@
+/*list*/
+.wearos-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/wearos.svg") no-repeat center;
+  mask: url("/icons/wearos.svg") no-repeat center;
+}
+.firefox-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/firefoxbrowser.svg") no-repeat center;
+  mask: url("/icons/firefoxbrowser.svg") no-repeat center;
+}
+.manjaro-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/manjaro.svg") no-repeat center;
+  mask: url("/icons/manjaro.svg") no-repeat center;
+}
+.tor-icon,
+.torbrowser-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/torbrowser.svg") no-repeat center;
+  mask: url("/icons/torbrowser.svg") no-repeat center;
+}
+.chrome-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/googlechrome.svg") no-repeat center;
+  mask: url("/icons/googlechrome.svg") no-repeat center;
+}
+.google-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/google.svg") no-repeat center;
+  mask: url("/icons/google.svg") no-repeat center;
+}
+.yt-icon,
+.youtube-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/youtube.svg") no-repeat center;
+  mask: url("/icons/youtube.svg") no-repeat center;
+}
+.ytmusic-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/youtubemusic.svg") no-repeat center;
+  mask: url("/icons/youtubemusic.svg") no-repeat center;
+}
+.wechat-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/wechat.svg") no-repeat center;
+  mask: url("/icons/wechat.svg") no-repeat center;
+}
+.apacheoffice-icon,
+.apacheopenoffice-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/apacheopenoffice.svg") no-repeat center;
+  mask: url("/icons/apacheopenoffice.svg") no-repeat center;
+}
+.microsoftoffice-icon,
+.moffice-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/microsoftoffice.svg") no-repeat center;
+  mask: url("/icons/microsoftoffice.svg") no-repeat center;
+}
+.libre-icon,
+.libreoffice-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/libreoffice.svg") no-repeat center;
+  mask: url("/icons/libreoffice.svg") no-repeat center;
+}
+.sqlite-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/sqlite.svg") no-repeat center;
+  mask: url("/icons/sqlite.svg") no-repeat center;
+}
+.postgres-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/postgresql.svg") no-repeat center;
+  mask: url("/icons/postgresql.svg") no-repeat center;
+}
+.mysql-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/mysql.svg") no-repeat center;
+  mask: url("/icons/mysql.svg") no-repeat center;
+}
+.apache-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/apache.svg") no-repeat center;
+  mask: url("/icons/apache.svg") no-repeat center;
+}
+.md-icon,
+.markdown-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/markdown.svg") no-repeat center;
+  mask: url("/icons/markdown.svg") no-repeat center;
+}
+.mariadb-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/mariadb.svg") no-repeat center;
+  mask: url("/icons/mariadb.svg") no-repeat center;
+}
+.ps5-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/playstation5.svg") no-repeat center;
+  mask: url("/icons/playstation5.svg") no-repeat center;
+}
+.ps4-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/playstation4.svg") no-repeat center;
+  mask: url("/icons/playstation4.svg") no-repeat center;
+}
+.ps3-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/playstation3.svg") no-repeat center;
+  mask: url("/icons/playstation3.svg") no-repeat center;
+}
+.ps2-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/playstation2.svg") no-repeat center;
+  mask: url("/icons/playstation2.svg") no-repeat center;
+}
+.ps1-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/playstation.svg") no-repeat center;
+  mask: url("/icons/playstation.svg") no-repeat center;
+}
+.psvita-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/playstationvita.svg") no-repeat center;
+  mask: url("/icons/playstationvita.svg") no-repeat center;
+}
+.paypal-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/paypal.svg") no-repeat center;
+  mask: url("/icons/paypal.svg") no-repeat center;
+}
+.googleplay-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/googleplay.svg") no-repeat center;
+  mask: url("/icons/googleplay.svg") no-repeat center;
+}
+.gpay-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/googlepay.svg") no-repeat center;
+  mask: url("/icons/googlepay.svg") no-repeat center;
+}
+.tailwind-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/tailwindcss.svg") no-repeat center;
+  mask: url("/icons/tailwindcss.svg") no-repeat center;
+}
+.less-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/less.svg") no-repeat center;
+  mask: url("/icons/less.svg") no-repeat center;
+}
+.sass-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/sass.svg") no-repeat center;
+  mask: url("/icons/sass.svg") no-repeat center;
+}
+.messenger-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/messenger.svg") no-repeat center;
+  mask: url("/icons/messenger.svg") no-repeat center;
+}
+.jquery-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/jquery.svg") no-repeat center;
+  mask: url("/icons/jquery.svg") no-repeat center;
+}
+.github-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/github.svg") no-repeat center;
+  mask: url("/icons/github.svg") no-repeat center;
+}
+.git-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/git.svg") no-repeat center;
+  mask: url("/icons/git.svg") no-repeat center;
+}
+.gitlab-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/gitlab.svg") no-repeat center;
+  mask: url("/icons/gitlab.svg") no-repeat center;
+}
+.env-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/dotenv.svg") no-repeat center;
+  mask: url("/icons/dotenv.svg") no-repeat center;
+}
+.svg-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/svgdotjs.svg") no-repeat center;
+  mask: url("/icons/svgdotjs.svg") no-repeat center;
+}
+.steam-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/steam.svg") no-repeat center;
+  mask: url("/icons/steam.svg") no-repeat center;
+}
+.react-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/react.svg") no-repeat center;
+  mask: url("/icons/react.svg") no-repeat center;
+}
+.nextjs-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/nextdotjs.svg") no-repeat center;
+  mask: url("/icons/nextdotjs.svg") no-repeat center;
+}
+.nuxtjs-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/nuxtdotjs.svg") no-repeat center;
+  mask: url("/icons/nuxtdotjs.svg") no-repeat center;
+}
+.line-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/line.svg") no-repeat center;
+  mask: url("/icons/line.svg") no-repeat center;
+}
+.json-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/json.svg") no-repeat center;
+  mask: url("/icons/json.svg") no-repeat center;
+}
+.whatsapp-icon,
+.wa-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/whatsapp.svg") no-repeat center;
+  mask: url("/icons/whatsapp.svg") no-repeat center;
+}
+.facebook-icon,
+.fb-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/facebook.svg") no-repeat center;
+  mask: url("/icons/facebook.svg") no-repeat center;
+}
 
+.twitterx-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/x.svg") no-repeat center;
+  mask: url("/icons/x.svg") no-repeat center;
+}
+.twitter-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/twitter.svg") no-repeat center;
+  mask: url("/icons/twitter.svg") no-repeat center;
+}
+.ts-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/tsnode.svg") no-repeat center;
+  mask: url("/icons/tsnode.svg") no-repeat center;
+}
+.blender-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/blender.svg") no-repeat center;
+  mask: url("/icons/blender.svg") no-repeat center;
+}
+
+.html-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/html5.svg") no-repeat center;
+  mask: url("/icons/html5.svg") no-repeat center;
+}
+.css-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/css3.svg") no-repeat center;
+  mask: url("/icons/css3.svg") no-repeat center;
+}
+.js-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/javascript.svg") no-repeat center;
+  mask: url("/icons/javascript.svg") no-repeat center;
+}
+.bootstrap-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/bootstrap.svg") no-repeat center;
+  mask: url("/icons/bootstrap.svg") no-repeat center;
+}
+.vue-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/vuedotjs.svg") no-repeat center;
+  mask: url("/icons/vuedotjs.svg") no-repeat center;
+}
+.angular-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/angular.svg") no-repeat center;
+  mask: url("/icons/angular.svg") no-repeat center;
+}
+.npm-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/angular.svg") no-repeat center;
+  mask: url("/icons/angular.svg") no-repeat center;
+}
+.nodejs-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/nodedotjs.svg") no-repeat center;
+  mask: url("/icons/nodedotjs.svg") no-repeat center;
+}
+.npm-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/npm.svg") no-repeat center;
+  mask: url("/icons/npm.svg") no-repeat center;
+}
+
+/*Size*/
+.ic-xxs {
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+}
+.ic-xs {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+}
+.ic-s {
+  display: inline-block;
+  width: 32px;
+  height: 32px;
+}
+.ic-m {
+  display: inline-block;
+  width: 48px;
+  height: 48px;
+}
+.ic-l {
+  display: inline-block;
+  width: 64px;
+  height: 64px;
+}
+.ic-xl {
+  display: inline-block;
+  width: 80px;
+  height: 80px;
+}
+
+/*color*/
+.ic-light {
+  background: #f9f9f9;
+}
+.ic-dark {
+  background: #333;
+}
+.ic-danger {
+  background: #d22;
+}
+.ic-info {
+  background: #45f;
+}
+.ic-warning {
+  background: #ff5;
+}
+.ic-success {
+  background: #392;
+}
