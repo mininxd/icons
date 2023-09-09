@@ -389,6 +389,11 @@
   width: 80px;
   height: 80px;
 }
+.ic-xxl {
+  display: inline-block;
+  width: 96px;
+  height: 96px;
+}
 
 /*color*/
 .ic-light {
