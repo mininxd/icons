@@ -11,9 +11,7 @@ var content = `
       <li onclick="copy(this)" class="blender-icon ic-l ic-dark"><a>blender-icon </a></li>
       <li onclick="copy(this)" class="steam-icon ic-l ic-dark"><a>steam-icon</a></li>
             <li onclick="copy(this)" class="libreoffice-icon ic-l ic-dark"><a>libreoffice-icon</a></li>
-      <li onclick="copy(this)" class="microsoftoffice-icon ic-l ic-dark"><a>
-        microsoftoffice-icon
-      </a></li>
+      <li onclick="copy(this)" class="microsoftoffice-icon ic-l ic-dark"><a>microsoftoffice-icon</a></li>
       <li onclick="copy(this)" class="apacheoffice-icon ic-l ic-dark"><a>apacheoffice-icon</a></li>
         <li onclick="copy(this)" class="firefox-icon ic-l ic-dark"><a>firefox-icon </a></li>
       <li onclick="copy(this)" class="tor-icon ic-l ic-dark"><a>tor-icon</a></li>
