@@ -36,14 +36,12 @@ Tambahkan tag HTML pada kode javascript [disini](https://github.com/MininxD/icon
 ---
 
 Setelah selesai kamu bisa pull request, setelah saya ACC kamu langsung bisa pakai icons kamu
-
 ```html
 <div class="youricon-icon
              ukuran
              atribut-warna">
 </div>
 ```
-
 contoh :
 ```html
 <div class="js-icon
@@ -54,5 +52,5 @@ contoh :
 informasi selengkapnya seperti ukuran dan atribut warna bisa cek [Disini](https:/icons.mininxd.my.id)
 
 ---
-      [![Donate -
-      Saweria](https://img.shields.io/badge/Donate-Saweria-2ea44f?style=for-the-badge)](https://saweria.co/mininxd)
+
+[![Donate - Saweria](https://img.shields.io/badge/Donate-Saweria-2ea44f?style=for-the-badge)](https://saweria.co/mininxd)
