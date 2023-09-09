@@ -31,7 +31,7 @@ var content = `
     <li><code>ic-m</code> &nbsp; | Medium</li>
     <li><code>ic-l</code> &nbsp; | Large</li>
     <li><code>ic-xl</code> | Extra Large</li>
-    </ul> 
+    </ul> <br>
 <div class="js-icon ic-xs ic-dark"></div>
 <div class="js-icon ic-s ic-dark"></div>
 <div class="js-icon ic-m ic-dark"></div>
@@ -42,13 +42,13 @@ var content = `
 <h3>Ubah Warna</h3>
 Warna yang tersedia,
 <ul>
-	<li><code>ic-light</code> &nbsp; &nbsp; | &nbsp;Putih (default)	</li>
+	<li><code>ic-light</code> &nbsp; &nbsp; | &nbsp;putih (default)	</li>
 	<li><code>ic-dark</code> &nbsp; &nbsp; &nbsp; | &nbsp;gelap	</li>
 	<li><code>ic-warning</code>&nbsp;| &nbsp;kuning	</li>
 	<li><code>ic-danger</code> &nbsp; | &nbsp;merah	</li>
 	<li><code>ic-info</code> &nbsp; &nbsp; &nbsp; | &nbsp;biru	</li>
 	<li><code>ic-success</code> | &nbsp;hijau	</li>
-</ul>
+</ul><br>
 <div class="js-icon ic-m ic-light"></div>
 <div class="js-icon ic-m ic-dark"></div>
 <div class="js-icon ic-m ic-warning"></div>
