@@ -63,10 +63,15 @@ ul {
   list-style-type: none;
 }
 #total-icon {
-	height: fit-content;
-	line-height: 1px;
+  opacity: 0.5;
+  height: fit-content;
+  line-height: 1px;
   width: 95%;
   display: flex;
   justify-content: flex-end;
   font-family: "Roboto condensed", Sans-Serif;
+}
+.comment {
+  opacity: 0.5;
+  font-style: italic;
 }

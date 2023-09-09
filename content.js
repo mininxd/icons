@@ -1,7 +1,5 @@
-var content = `  <input class="search" type="text" id="input" onkeyup="myFunction()" placeholder="Pencarian...">
 
-<br><hr>
-<ul id="ic">
+var content = `
 <li onclick="copy(this)" class="fb-icon ic-l ic-dark"><a>fb-icon</a></li>
     <li onclick="copy(this)" class="wechat-icon ic-l ic-dark"><a>wechat-icon</a></li>
           <li onclick="copy(this)" class="messenger-icon ic-l ic-dark"><a>messenger-icon</a></li>
@@ -60,18 +58,17 @@ var content = `  <input class="search" type="text" id="input" onkeyup="myFunctio
             <li onclick="copy(this)" class="googleplay-icon ic-l ic-dark"><a>googleplay-icon</a></li>
             <li onclick="copy(this)" class="yt-icon ic-l ic-dark"><a>yt-icon</a></li>
       <li onclick="copy(this)" class="ytmusic-icon ic-l ic-dark"><a>ytmusic-icon</a></li>
-      </ul>
       `;
-document.getElementById("allcontent").innerHTML = content;
+document.getElementById("konten1").innerHTML = content;
 
 function show() {
-  document.getElementById("allcontent").style.display = "block";
+  document.getElementById("konten1").style.display = "block";
   document.getElementById("maaf1").style.display = "block";
   document.getElementById("maaf").style.display = "none";
   document.getElementById("swipe").style.display = "none";
 }
 function back() {
-  document.getElementById("allcontent").style.display = "none";
+  document.getElementById("konten1").style.display = "none";
   document.getElementById("maaf").style.display = "block";
   document.getElementById("maaf1").style.display = "none";
   document.getElementById("swipe").style.display = "block";
