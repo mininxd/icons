@@ -15,29 +15,17 @@
 			src: url('./HarmonyOS-Sans-Black.ttf');
 		}
 	</style>
-</defs>
+</defs> 
 
 	<text 
-		font-size="5.3562794"
+		font-size="14.870557"
 		font-family="HarmonyOS-Sans-Black"
-		stroke-width="0.1"
-		stroke="#000000"
-		stroke-opacity="1.000"
-		fill-opacity="0"
-		text-anchor="start"
-  		transform="rotate(-0.0 9.996515 9.999236) scale(0.7359142 1.0)" >
-		<tspan x="1.7458066" y="11.966236">MININXD</tspan>
-	</text> 
-
-	<text 
-		font-size="5.3562794"
-		font-family="HarmonyOS-Sans-Black"
-		fill="#000000"
+		fill="#FFFFFF"
 		stroke-width="0"
 		fill-opacity="1.000"
 		text-anchor="start"
-  		transform="rotate(-0.0 9.996515 9.999236) scale(0.7359142 1.0)" >
+  		transform="rotate(-270.05557 10.051113 10.045536) scale(0.7677601 1.0)" >
 
-		<tspan x="1.7458066" y="11.966236">MININXD</tspan>
+		<tspan x="2.2579768" y="15.506036">XD</tspan>
 	</text>
 </svg>
