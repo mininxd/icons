@@ -34,3 +34,7 @@
   -webkit-mask: url("/icons/rss.svg") no-repeat center;
   mask: url("/icons/rss.svg") no-repeat center;
 }
+
+.ic-dark {
+	background: #222;
+}
