@@ -1,4 +1,3 @@
-
 var content = `
 <li onclick="copy(this)" class="fb-icon ic-l ic-dark"><a>fb-icon</a></li>
     <li onclick="copy(this)" class="wechat-icon ic-l ic-dark"><a>wechat-icon</a></li>
