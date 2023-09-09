@@ -7,8 +7,7 @@ var content = `
 
 <li 
 onclick="copy(this)" 
-class="mininxd-icon ic-l ic-dark">
-<a>mininxd-icon</a>
+class="mininxd-icon ic-l ic-dark"><a>mininxd-icon</a>
 </li>
 
     
