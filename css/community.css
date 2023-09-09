@@ -1,3 +1,21 @@
 /*
 Your Code should be here
+
+an here how to write your CSS logo
 */
+
+/*
+.yourlogo-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/community_icons/your.svg") no-repeat center;
+  mask: url("/icons/community_icons/your.svg") no-repeat center;
+}
+*/
+
+.mininxd-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/community_icons/mininxd.svg") no-repeat center;
+  mask: url("/icons/community_icons/mininxd.svg") no-repeat center;
+}
