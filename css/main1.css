@@ -1,26 +1,213 @@
-.vlc-icon {
+.fblive-icon {
   background-size: cover;
   background-color: white;
-  -webkit-mask: url("/icons/vlcmediaplayer.svg") no-repeat center;
-  mask: url("/icons/vlcmediaplayer.svg") no-repeat center;
+  -webkit-mask: url("/icons/facebooklive.svg") no-repeat center;
+  mask: url("/icons/facebooklive.svg") no-repeat center;
 }
-.vlc-icon {
+.vivaldi-icon {
   background-size: cover;
   background-color: white;
-  -webkit-mask: url("/icons/vlcmediaplayer.svg") no-repeat center;
-  mask: url("/icons/vlcmediaplayer.svg") no-repeat center;
+  -webkit-mask: url("/icons/vivaldi.svg") no-repeat center;
+  mask: url("/icons/vivaldi.svg") no-repeat center;
 }
-.vlc-icon {
+.redhat-icon {
   background-size: cover;
   background-color: white;
-  -webkit-mask: url("/icons/vlcmediaplayer.svg") no-repeat center;
-  mask: url("/icons/vlcmediaplayer.svg") no-repeat center;
+  -webkit-mask: url("/icons/redhat.svg") no-repeat center;
+  mask: url("/icons/redhat.svg") no-repeat center;
 }
-.vlc-icon {
+.redhatopenshift-icon {
   background-size: cover;
   background-color: white;
-  -webkit-mask: url("/icons/vlcmediaplayer.svg") no-repeat center;
-  mask: url("/icons/vlcmediaplayer.svg") no-repeat center;
+  -webkit-mask: url("/icons/redhatopenshift.svg") no-repeat center;
+  mask: url("/icons/redhatopenshift.svg") no-repeat center;
+}
+.filezilla-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/filezilla.svg") no-repeat center;
+  mask: url("/icons/filezilla.svg") no-repeat center;
+}
+.rakuten-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/rakuten.svg") no-repeat center;
+  mask: url("/icons/rakuten.svg") no-repeat center;
+}
+.keras-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/keras.svg") no-repeat center;
+  mask: url("/icons/keras.svg") no-repeat center;
+}
+.oracle-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/oracle.svg") no-repeat center;
+  mask: url("/icons/oracle.svg") no-repeat center;
+}
+.streamlit-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/streamlit.svg") no-repeat center;
+  mask: url("/icons/streamlit.svg") no-repeat center;
+}
+.kofi-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/kofi.svg") no-repeat center;
+  mask: url("/icons/kofi.svg") no-repeat center;
+}
+.c-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/c.svg") no-repeat center;
+  mask: url("/icons/c.svg") no-repeat center;
+}
+.cplusplus-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/cplusplus.svg") no-repeat center;
+  mask: url("/icons/cplusplus.svg") no-repeat center;
+}
+.canva-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/canva.svg") no-repeat center;
+  mask: url("/icons/canva.svg") no-repeat center;
+}
+.cisco-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/cisco.svg") no-repeat center;
+  mask: url("/icons/cisco.svg") no-repeat center;
+}
+.cpanel-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/cpanel.svg") no-repeat center;
+  mask: url("/icons/cpanel.svg") no-repeat center;
+}
+.centos-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/centos.svg") no-repeat center;
+  mask: url("/icons/centos.svg") no-repeat center;
+}
+.kalilinux-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/kalilinux.svg") no-repeat center;
+  mask: url("/icons/kalilinux.svg") no-repeat center;
+}
+.linux-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/linux.svg") no-repeat center;
+  mask: url("/icons/linux.svg") no-repeat center;
+}
+.linuxmint-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/linuxmint.svg") no-repeat center;
+  mask: url("/icons/linuxmint.svg") no-repeat center;
+}
+.archlinux-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/archlinux.svg") no-repeat center;
+  mask: url("/icons/archlinux.svg") no-repeat center;
+}
+
+.rockylinux-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/rockylinux.svg") no-repeat center;
+  mask: url("/icons/rockylinux.svg") no-repeat center;
+}
+.artixlinux-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/artixlinux.svg") no-repeat center;
+  mask: url("/icons/artixlinux.svg") no-repeat center;
+}
+.alpinelinux-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/alpinelinux.svg") no-repeat center;
+  mask: url("/icons/alpinelinux.svg") no-repeat center;
+}
+.tplink-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/tplink.svg") no-repeat center;
+  mask: url("/icons/tplink.svg") no-repeat center;
+}
+.kotlin-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/kotlin.svg") no-repeat center;
+  mask: url("/icons/kotlin.svg") no-repeat center;
+}
+.duolingo-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/duolingo.svg") no-repeat center;
+  mask: url("/icons/duolingo.svg") no-repeat center;
+}
+.osu-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/osu.svg") no-repeat center;
+  mask: url("/icons/osu.svg") no-repeat center;
+}
+.opensourcehardware-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/opensourcehardware.svg") no-repeat center;
+  mask: url("/icons/opensourcehardware.svg") no-repeat center;
+}
+.ios-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/ios.svg") no-repeat center;
+  mask: url("/icons/ios.svg") no-repeat center;
+}
+.harmonyos-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/harmonyos.svg") no-repeat center;
+  mask: url("/icons/harmonyos.svg") no-repeat center;
+}
+.kaios-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/kaios.svg") no-repeat center;
+  mask: url("/icons/kaios.svg") no-repeat center;
+}
+.macos-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/macos.svg") no-repeat center;
+  mask: url("/icons/macos.svg") no-repeat center;
+}
+.microsoft-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/microsoft.svg") no-repeat center;
+  mask: url("/icons/microsoft.svg") no-repeat center;
+}
+.microsoftedge-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/microsoftedge.svg") no-repeat center;
+  mask: url("/icons/microsoftedge.svg") no-repeat center;
+}
+.microsoftbing-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/microsoftbing.svg") no-repeat center;
+  mask: url("/icons/microsoftbing.svg") no-repeat center;
 }
 .bootstrap-icon {
   background-size: cover;
@@ -33,6 +220,12 @@
   background-color: white;
   -webkit-mask: url("/icons/rss.svg") no-repeat center;
   mask: url("/icons/rss.svg") no-repeat center;
+}
+.vlc-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/vlc.svg") no-repeat center;
+  mask: url("/icons/vlc.svg") no-repeat center;
 }
 
 /*Size*/
