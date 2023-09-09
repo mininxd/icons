@@ -20,7 +20,7 @@ var content = `
 <li onclick="copy(this)" class="centos-icon ic-l ic-dark"><a>centos-icon</a></li>
 <li onclick="copy(this)" class="linux-icon ic-l ic-dark"><a>linux-icon</a></li>
 <li onclick="copy(this)" class="kalilinux-icon ic-l ic-dark"><a>kalilinux-icon</a></li>
-<li onclick="copy(this)" class="linuxmint-icon ic-l ic-dark"><a>linuxmin-icon</a></li>
+<li onclick="copy(this)" class="linuxmint-icon ic-l ic-dark"><a>linuxmint-icon</a></li>
 <li onclick="copy(this)" class="archlinux-icon ic-l ic-dark"><a>archlinux-icon</a></li>
 <li onclick="copy(this)" class="artixlinux-icon ic-l ic-dark"><a>artixlinux-icon</a></li>
 <li onclick="copy(this)" class="rockylinux-icon ic-l ic-dark"><a>rockylinux-icon</a></li>
