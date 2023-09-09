@@ -16,13 +16,13 @@ h2 {
   font-family: "Roboto", Sans-Serif;
   font-weight: 700;
 }
-h3.maaf {
+h3.komen {
   font-weight: 700;
   padding: 10px;
   font-size: 12px;
   font-family: "Roboto Mono", Sans-Serif;
 }
-.maaf:hover {
+.komen:hover {
   color: #000;
   text-decoration: underline;
 }

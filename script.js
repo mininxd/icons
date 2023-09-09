@@ -62,7 +62,7 @@ var jumlah = list.getElementsByTagName("li");
 setInterval(function () {
   document.getElementById("total-icon").innerHTML =
     "<i>Total Icons: " + jumlah.length + "</i>";
-}, 100);
+}, 1000);
 
 ///
 
