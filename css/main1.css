@@ -35,6 +35,55 @@
   mask: url("/icons/rss.svg") no-repeat center;
 }
 
-.ic-dark {
-	background: #222;
+/*Size*/
+.ic-xxs {
+  display: inline-block;
+  width: 8px;
+  height: 8px;
 }
+.ic-xs {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+}
+.ic-s {
+  display: inline-block;
+  width: 32px;
+  height: 32px;
+}
+.ic-m {
+  display: inline-block;
+  width: 48px;
+  height: 48px;
+}
+.ic-l {
+  display: inline-block;
+  width: 64px;
+  height: 64px;
+}
+.ic-xl {
+  display: inline-block;
+  width: 80px;
+  height: 80px;
+}
+
+/*color*/
+.ic-light {
+  background: #f9f9f9;
+}
+.ic-dark {
+  background: #333;
+}
+.ic-danger {
+  background: #d22;
+}
+.ic-info {
+  background: #45f;
+}
+.ic-warning {
+  background: #ff5;
+}
+.ic-success {
+  background: #392;
+}
+
