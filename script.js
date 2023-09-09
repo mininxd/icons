@@ -8,6 +8,20 @@ function copy(el) {
   element.select();
   document.execCommand("copy");
   document.body.removeChild(element);
+
+  Toastify({
+    text: el.textContent,
+    duration: 1000,
+    gravity: "top", // `top` or `bottom`
+    position: "right", // `left`, `center` or `right`
+    stopOnFocus: false, // Prevents dismissing of toast on hover
+    style: {
+      background: "#222",
+      border: "0",
+      outline: "0",
+    },
+    onClick: function () {}, // Callback after click
+  }).showToast();
 }
 /*
 document.getElementById("howto").style.display = "none";
@@ -65,4 +79,3 @@ setInterval(function () {
 }, 1000);
 
 ///
-
