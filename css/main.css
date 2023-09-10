@@ -1,4 +1,499 @@
 /*list*/
+.dotnet-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/dotnet.svg") no-repeat center;
+  mask: url("/icons/dotnet.svg") no-repeat center;
+}
+.fblive-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/facebooklive.svg") no-repeat center;
+  mask: url("/icons/facebooklive.svg") no-repeat center;
+}
+.vivaldi-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/vivaldi.svg") no-repeat center;
+  mask: url("/icons/vivaldi.svg") no-repeat center;
+}
+.redhat-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/redhat.svg") no-repeat center;
+  mask: url("/icons/redhat.svg") no-repeat center;
+}
+.redhatopenshift-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/redhatopenshift.svg") no-repeat center;
+  mask: url("/icons/redhatopenshift.svg") no-repeat center;
+}
+.filezilla-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/filezilla.svg") no-repeat center;
+  mask: url("/icons/filezilla.svg") no-repeat center;
+}
+.rakuten-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/rakuten.svg") no-repeat center;
+  mask: url("/icons/rakuten.svg") no-repeat center;
+}
+.keras-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/keras.svg") no-repeat center;
+  mask: url("/icons/keras.svg") no-repeat center;
+}
+.oracle-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/oracle.svg") no-repeat center;
+  mask: url("/icons/oracle.svg") no-repeat center;
+}
+.streamlit-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/streamlit.svg") no-repeat center;
+  mask: url("/icons/streamlit.svg") no-repeat center;
+}
+.kofi-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/kofi.svg") no-repeat center;
+  mask: url("/icons/kofi.svg") no-repeat center;
+}
+.c-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/c.svg") no-repeat center;
+  mask: url("/icons/c.svg") no-repeat center;
+}
+.cplusplus-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/cplusplus.svg") no-repeat center;
+  mask: url("/icons/cplusplus.svg") no-repeat center;
+}
+.canva-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/canva.svg") no-repeat center;
+  mask: url("/icons/canva.svg") no-repeat center;
+}
+.cisco-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/cisco.svg") no-repeat center;
+  mask: url("/icons/cisco.svg") no-repeat center;
+}
+.cpanel-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/cpanel.svg") no-repeat center;
+  mask: url("/icons/cpanel.svg") no-repeat center;
+}
+.centos-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/centos.svg") no-repeat center;
+  mask: url("/icons/centos.svg") no-repeat center;
+}
+.kalilinux-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/kalilinux.svg") no-repeat center;
+  mask: url("/icons/kalilinux.svg") no-repeat center;
+}
+.linux-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/linux.svg") no-repeat center;
+  mask: url("/icons/linux.svg") no-repeat center;
+}
+.linuxmint-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/linuxmint.svg") no-repeat center;
+  mask: url("/icons/linuxmint.svg") no-repeat center;
+}
+.archlinux-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/archlinux.svg") no-repeat center;
+  mask: url("/icons/archlinux.svg") no-repeat center;
+}
+
+.rockylinux-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/rockylinux.svg") no-repeat center;
+  mask: url("/icons/rockylinux.svg") no-repeat center;
+}
+.artixlinux-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/artixlinux.svg") no-repeat center;
+  mask: url("/icons/artixlinux.svg") no-repeat center;
+}
+.alpinelinux-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/alpinelinux.svg") no-repeat center;
+  mask: url("/icons/alpinelinux.svg") no-repeat center;
+}
+.tplink-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/tplink.svg") no-repeat center;
+  mask: url("/icons/tplink.svg") no-repeat center;
+}
+.kotlin-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/kotlin.svg") no-repeat center;
+  mask: url("/icons/kotlin.svg") no-repeat center;
+}
+.duolingo-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/duolingo.svg") no-repeat center;
+  mask: url("/icons/duolingo.svg") no-repeat center;
+}
+.osu-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/osu.svg") no-repeat center;
+  mask: url("/icons/osu.svg") no-repeat center;
+}
+.opensourcehardware-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/opensourcehardware.svg") no-repeat center;
+  mask: url("/icons/opensourcehardware.svg") no-repeat center;
+}
+.ios-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/ios.svg") no-repeat center;
+  mask: url("/icons/ios.svg") no-repeat center;
+}
+.harmonyos-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/harmonyos.svg") no-repeat center;
+  mask: url("/icons/harmonyos.svg") no-repeat center;
+}
+.kaios-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/kaios.svg") no-repeat center;
+  mask: url("/icons/kaios.svg") no-repeat center;
+}
+.macos-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/macos.svg") no-repeat center;
+  mask: url("/icons/macos.svg") no-repeat center;
+}
+.microsoft-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/microsoft.svg") no-repeat center;
+  mask: url("/icons/microsoft.svg") no-repeat center;
+}
+.microsoftedge-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/microsoftedge.svg") no-repeat center;
+  mask: url("/icons/microsoftedge.svg") no-repeat center;
+}
+.microsoftbing-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/microsoftbing.svg") no-repeat center;
+  mask: url("/icons/microsoftbing.svg") no-repeat center;
+}
+.bootstrap-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/bootstrap.svg") no-repeat center;
+  mask: url("/icons/bootstrap.svg") no-repeat center;
+}
+.rss-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/rss.svg") no-repeat center;
+  mask: url("/icons/rss.svg") no-repeat center;
+}
+.vlc-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/vlc.svg") no-repeat center;
+  mask: url("/icons/vlc.svg") no-repeat center;
+}
+
+.androidstudio-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/androidstudio.svg") no-repeat center;
+  mask: url("/icons/androidstudio.svg") no-repeat center;
+}
+.fdroid-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/fdroid.svg") no-repeat center;
+  mask: url("/icons/fdroid.svg") no-repeat center;
+}
+.android-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/android.svg") no-repeat center;
+  mask: url("/icons/android.svg") no-repeat center;
+}
+.leica-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/leica.svg") no-repeat center;
+  mask: url("/icons/leica.svg") no-repeat center;
+}
+.epicgames-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/epicgames.svg") no-repeat center;
+  mask: url("/icons/epicgames.svg") no-repeat center;
+}
+.origin-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/origin.svg") no-repeat center;
+  mask: url("/icons/origin.svg") no-repeat center;
+}
+.alienware-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/alienware.svg") no-repeat center;
+  mask: url("/icons/alienware.svg") no-repeat center;
+}
+.nzxt-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/nzxt.svg") no-repeat center;
+  mask: url("/icons/nzxt.svg") no-repeat center;
+}
+.waze-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/waze.svg") no-repeat center;
+  mask: url("/icons/waze.svg") no-repeat center;
+}
+.razer-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/razer.svg") no-repeat center;
+  mask: url("/icons/razer.svg") no-repeat center;
+}
+.suzuki-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/suzuki.svg") no-repeat center;
+  mask: url("/icons/suzuki.svg") no-repeat center;
+}
+.rog-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/republicofgamers.svg") no-repeat center;
+  mask: url("/icons/republicofgamers.svg") no-repeat center;
+}
+
+.tiktok-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/tiktok.svg") no-repeat center;
+  mask: url("/icons/tiktok.svg") no-repeat center;
+}
+.shazam-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/shazam.svg") no-repeat center;
+  mask: url("/icons/shazam.svg") no-repeat center;
+}
+.honda-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/honda.svg") no-repeat center;
+  mask: url("/icons/honda.svg") no-repeat center;
+}
+.twitch-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/twitch.svg") no-repeat center;
+  mask: url("/icons/twitch.svg") no-repeat center;
+}
+.toyota-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/toyota.svg") no-repeat center;
+  mask: url("/icons/toyota.svg") no-repeat center;
+}
+.telegram-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/telegram.svg") no-repeat center;
+  mask: url("/icons/telegram.svg") no-repeat center;
+}
+.ts-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/typescript.svg") no-repeat center;
+  mask: url("/icons/typescript.svg") no-repeat center;
+}
+.dts-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/dts.svg") no-repeat center;
+  mask: url("/icons/dts.svg") no-repeat center;
+}
+.ktm-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/ktm.svg") no-repeat center;
+  mask: url("/icons/ktm.svg") no-repeat center;
+}
+.stadia-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/stadia.svg") no-repeat center;
+  mask: url("/icons/stadia.svg") no-repeat center;
+}
+.dolby-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/dolby.svg") no-repeat center;
+  mask: url("/icons/dolby.svg") no-repeat center;
+}
+.pihole-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/pihole.svg") no-repeat center;
+  mask: url("/icons/pihole.svg") no-repeat center;
+}
+.godotengine-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/godotengine.svg") no-repeat center;
+  mask: url("/icons/godotengine.svg") no-repeat center;
+}
+.adguard-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/adguard.svg") no-repeat center;
+  mask: url("/icons/adguard.svg") no-repeat center;
+}
+.adblockplus-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/adblockplus.svg") no-repeat center;
+  mask: url("/icons/adblockplus.svg") no-repeat center;
+}
+.adblock-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/adblock.svg") no-repeat center;
+  mask: url("/icons/adblock.svg") no-repeat center;
+}
+.adobexd-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/adobexd.svg") no-repeat center;
+  mask: url("/icons/adobexd.svg") no-repeat center;
+}
+.premierepro-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/adobepremierepro.svg") no-repeat center;
+  mask: url("/icons/adobepremierepro.svg") no-repeat center;
+}
+.photoshop-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/adobephotoshop.svg") no-repeat center;
+  mask: url("/icons/adobephotoshop.svg") no-repeat center;
+}
+.lightroom-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/adobelightroom.svg") no-repeat center;
+  mask: url("/icons/adobelightroom.svg") no-repeat center;
+}
+.indesign-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/adobeindesign.svg") no-repeat center;
+  mask: url("/icons/adobeindesign.svg") no-repeat center;
+}
+.creativecloud-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/adobecreativecloud.svg") no-repeat center;
+  mask: url("/icons/adobecreativecloud.svg") no-repeat center;
+}
+.illustrator-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/adobeillustrator.svg") no-repeat center;
+  mask: url("/icons/adobeillustrator.svg") no-repeat center;
+}
+.adobefonts-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/adobefonts.svg") no-repeat center;
+  mask: url("/icons/adobefonts.svg") no-repeat center;
+}
+.dreamweaver-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/adobedreamweaver.svg") no-repeat center;
+  mask: url("/icons/adobedreamweaver.svg") no-repeat center;
+}
+.audition-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/adobeaudition.svg") no-repeat center;
+  mask: url("/icons/adobeaudition.svg") no-repeat center;
+}
+.acrobat-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/adobeacrobatreader.svg") no-repeat center;
+  mask: url("/icons/adobeacrobatreader.svg") no-repeat center;
+}
+.adobe-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/adobe.svg") no-repeat center;
+  mask: url("/icons/adobe.svg") no-repeat center;
+}
+.discord-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/discord.svg") no-repeat center;
+  mask: url("/icons/discord.svg") no-repeat center;
+}
+.roblox-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/roblox.svg") no-repeat center;
+  mask: url("/icons/roblox.svg") no-repeat center;
+}
+.logitech-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/logitech.svg") no-repeat center;
+  mask: url("/icons/logitech.svg") no-repeat center;
+}
 .wearos-icon {
   background-size: cover;
   background-color: white;
@@ -290,7 +785,7 @@
   -webkit-mask: url("/icons/twitter.svg") no-repeat center;
   mask: url("/icons/twitter.svg") no-repeat center;
 }
-.ts-icon {
+.tsnode-icon {
   background-size: cover;
   background-color: white;
   -webkit-mask: url("/icons/tsnode.svg") no-repeat center;
