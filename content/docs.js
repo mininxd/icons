@@ -35,7 +35,7 @@ var content = `
 <div class="js-icon ic-xs ic-dark"></div>
 <div class="js-icon ic-s ic-dark"></div>
 <div class="js-icon ic-m ic-dark"></div>
-<div style="margin:0;" class="js-icon ic-large ic-dark"></div>
+<div style="margin:0;" class="js-icon ic-lg ic-dark"></div>
 <div class="js-icon ic-xl ic-dark"></div>
 
 <hr>
