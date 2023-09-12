@@ -49,7 +49,7 @@ contoh :
              ic-light">
 </div>
 ```
-informasi selengkapnya seperti ukuran dan atribut warna bisa cek [Disini](https:/icons.mininxd.my.id)
+informasi selengkapnya seperti ukuran dan atribut warna bisa cek [Disini](https://icons.mininxd.my.id)
 
 ---
 
