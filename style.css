@@ -99,3 +99,8 @@ ul {
     margin-left: 1em;
   }
 }
+.ic-large {
+	display: inline-block;
+  width: 64px;
+  height: 64px;
+}
