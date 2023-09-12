@@ -55,7 +55,7 @@ Warna yang tersedia,
 <div class="js-icon ic-m ic-danger"></div>
 <div class="js-icon ic-m ic-info"></div>
 <div class="js-icon ic-m ic-success"></div>
-<i><h3 class="maaf">// Codename terinspirasi dari bootstrap.</h3></i>
+<i><h5 class="extratext">// Codename terinspirasi dari bootstrap.</h5></i>
 <hr>
 
 <h3>Custom CSS</h3>
