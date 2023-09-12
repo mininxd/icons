@@ -73,9 +73,29 @@ ul {
 }
 .comment {
   opacity: 0.5;
-  font-style: italic;
+  font-style: oblique;
+  font-size: 15px;
 }
-.container {
-  margin: 10px;
+#acak,
+.ic-l {
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.clearfloat {
+  clear: both;
 }
 
+@media (orientation: landscape) {
+  .konten {
+    padding-left: 2.5em;
+    padding-right: 2.5em;
+  }
+  .container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-left: 1em;
+  }
+}
