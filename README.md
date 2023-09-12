@@ -11,14 +11,14 @@ Upload icon kamu [disini](https://github.com/MininxD/icons/tree/main/icons/commu
 
 __Step 2 :__
 
-tambahkan baris CSS baru [disini](https://github.com/MininxD/icons/blob/main/css/community.css)
+tambahkan baris CSS baru [disini](https://github.com/MininxD/icons/blob/main/css/community.css), <br>
 berikut adalah contoh kode CSS yang bisa kamu tambahkan
 ```css
 .youricon-icon {
   background-size: cover;
   background-color: white;
-  -webkit-mask: url("/icons/youricon.svg") no-repeat center;
-  mask: url("/icons/youricon.svg") no-repeat center;
+  -webkit-mask: url("/icons/community_icons/youricon.svg") no-repeat center;
+  mask: url("/icons/community_icons/youricon.svg") no-repeat center;
 }
 ```
 
