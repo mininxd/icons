@@ -75,3 +75,7 @@ ul {
   opacity: 0.5;
   font-style: italic;
 }
+.container {
+	
+	margin:10px;
+}
