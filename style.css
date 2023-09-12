@@ -82,6 +82,12 @@ ul {
   margin-left: 10px;
   margin-right: 10px;
 }
+.ic-lg {
+  display: inline-block;
+  width: 64px;
+  height: 64px;
+}
+
 .clearfloat {
   clear: both;
 }
@@ -98,9 +104,4 @@ ul {
     align-items: center;
     margin-left: 1em;
   }
-}
-.ic-large {
-	display: inline-block;
-  width: 64px;
-  height: 64px;
 }
