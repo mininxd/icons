@@ -1,4 +1,197 @@
 /*list*/
+.msi-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/msi.svg") no-repeat center;
+  mask: url("/icons/msi.svg") no-repeat center;
+}
+.reddit-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/reddit.svg") no-repeat center;
+  mask: url("/icons/reddit.svg") no-repeat center;
+}
+.mega-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/mega.svg") no-repeat center;
+  mask: url("/icons/mega.svg") no-repeat center;
+}
+.meta-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/meta.svg") no-repeat center;
+  mask: url("/icons/meta.svg") no-repeat center;
+}
+.affinitypublisher-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/affinitypublisher.svg") no-repeat center;
+  mask: url("/icons/affinitypublisher.svg") no-repeat center;
+}
+.affinitydesigner-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/affinitydesigner.svg") no-repeat center;
+  mask: url("/icons/affinitydesigner.svg") no-repeat center;
+}
+.affinityphoto-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/affinityphoto.svg") no-repeat center;
+  mask: url("/icons/affinityphoto.svg") no-repeat center;
+}
+.affinity-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/affinity.svg") no-repeat center;
+  mask: url("/icons/affinity.svg") no-repeat center;
+}
+.acer-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/acer.svg") no-repeat center;
+  mask: url("/icons/acer.svg") no-repeat center;
+}
+.amazon-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/amazon.svg") no-repeat center;
+  mask: url("/icons/amazon.svg") no-repeat center;
+}
+.airbnb-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/airbnb.svg") no-repeat center;
+  mask: url("/icons/airbnb.svg") no-repeat center;
+}
+.fourchan-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/4chan.svg") no-repeat center;
+  mask: url("/icons/4chan.svg") no-repeat center;
+}
+.threem-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/3m.svg") no-repeat center;
+  mask: url("/icons/3m.svg") no-repeat center;
+}
+.lg-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/lg.svg") no-repeat center;
+  mask: url("/icons/lg.svg") no-repeat center;
+}
+.airasia-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/airasia.svg") no-repeat center;
+  mask: url("/icons/airasia.svg") no-repeat center;
+}
+.lubuntu-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/lubuntu.svg") no-repeat center;
+  mask: url("/icons/lubuntu.svg") no-repeat center;
+}
+.linkedin-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/linkedin.svg") no-repeat center;
+  mask: url("/icons/linkedin.svg") no-repeat center;
+}
+.litecoin-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/litecoin.svg") no-repeat center;
+  mask: url("/icons/litecoin.svg") no-repeat center;
+}
+.liberapay-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/liberapay.svg") no-repeat center;
+  mask: url("/icons/liberapay.svg") no-repeat center;
+}
+.lamborghini-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/lamborghini.svg") no-repeat center;
+  mask: url("/icons/lamborghini.svg") no-repeat center;
+}
+.laravelnova-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/laravelnova.svg") no-repeat center;
+  mask: url("/icons/laravelnova.svg") no-repeat center;
+}
+.laravel-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/laravel.svg") no-repeat center;
+  mask: url("/icons/laravel.svg") no-repeat center;
+}
+.leagueoflegends-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/leagueoflegends.svg") no-repeat center;
+  mask: url("/icons/leagueoflegends.svg") no-repeat center;
+}
+.daf-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/daf.svg") no-repeat center;
+  mask: url("/icons/daf.svg") no-repeat center;
+}
+.dart-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/dart.svg") no-repeat center;
+  mask: url("/icons/dart.svg") no-repeat center;
+}
+.deezer-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/deezer.svg") no-repeat center;
+  mask: url("/icons/deezer.svg") no-repeat center;
+}
+.ducati-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/ducati.svg") no-repeat center;
+  mask: url("/icons/ducati.svg") no-repeat center;
+}
+.shopee-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/shopee.svg") no-repeat center;
+  mask: url("/icons/shopee.svg") no-repeat center;
+}
+.spacex-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/spacex.svg") no-repeat center;
+  mask: url("/icons/spacex.svg") no-repeat center;
+}
+.spotify-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/spotify.svg") no-repeat center;
+  mask: url("/icons/spotify.svg") no-repeat center;
+}
+.shopify-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/shopify.svg") no-repeat center;
+  mask: url("/icons/shopify.svg") no-repeat center;
+}
+.bluetooth-icon {
+  background-size: cover;
+  background-color: white;
+  -webkit-mask: url("/icons/bluetooth.svg") no-repeat center;
+  mask: url("/icons/bluetooth.svg") no-repeat center;
+}
+
 .dotnet-icon {
   background-size: cover;
   background-color: white;
