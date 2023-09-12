@@ -76,6 +76,8 @@ ul {
   font-style: italic;
 }
 .container {
-	
-	margin:10px;
+  margin: 10px;
+}
+#acak {
+  opacity: 0;
 }
