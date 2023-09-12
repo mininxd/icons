@@ -73,7 +73,7 @@ ul {
 }
 .comment {
   opacity: 0.5;
-  font-style: oblique;
+  transform: skew(-10deg);
   font-size: 15px;
 }
 #acak,
@@ -94,7 +94,7 @@ ul {
 .extratext {
   font-size: 12px;
   opacity: 0.5;
-  font-style: oblique;
+  transform: skew(-10deg);
 }
 
 @media (orientation: landscape) {
